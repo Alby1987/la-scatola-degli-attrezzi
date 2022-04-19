@@ -103,7 +103,7 @@ Ecco qua una lista di tutti i mostri presenti nei libri finora pubblicati nella 
 -   Mastodonte (LSB-RA)
 -   Medusa (LSB)
 -   Melma Grigia (LSB)
--   Melma verde (LSB)
+-   Melma Verde (LSB)
 -   Millepiedi, Gigante (grande) (LSB)
 -   Millepiedi, Gigante (medio) (LSB)
 -   Millepiedi, Gigante (piccolo) (LSB)

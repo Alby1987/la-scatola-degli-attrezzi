@@ -1,6 +1,6 @@
 # Appendice B - Indice dei Mostri
 
-Ecco qua una lista di tutti i mostri presenti nei libri finora pubblicati nella serie "La Scatola Bianca", indicando la presenza del mostro nel libro base (LSB), nel libro delle regole avanzate (LSB-RA), ed in questo libro (LSDA).
+Ecco qua una lista di tutti i mostri presenti nei libri finora pubblicati nella serie *La Scatola Bianca*, indicando la presenza del mostro nel libro base (LSB), nel libro delle regole avanzate (LSB-RA), ed in questo libro (LSDA).
 
 ### La Lista
 

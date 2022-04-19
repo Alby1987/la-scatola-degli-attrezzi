@@ -37,7 +37,7 @@
 
 ### Parte IV - Magia
 11. Magia Draconica
-11.1. Nuovi Incantesimi
+11.1. Descrizione incantesimi Magia Draconica
 
 ### Appendice A
 - Regole per giocare in solo o generare un Dungeon

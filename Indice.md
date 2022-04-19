@@ -30,16 +30,14 @@
 
 8. Commercio Marittimo
 
-9. Morale
-
 ### Parte III - Mostri
-10. Approfondimento sui Mostri già pubblicati
+9. Approfondimento sui Mostri
 
-11. Nuovi Mostri
+10. Mostri Aggiuntivi
 
 ### Parte IV - Magia
 11. Magia Draconica
-12.1. Nuovi Incantesimi
+11.1. Nuovi Incantesimi
 
 ### Appendice A
 - Regole per giocare in solo o generare un Dungeon

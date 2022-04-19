@@ -43,4 +43,4 @@
 - Regole per giocare in solo o generare un Dungeon
 
 ### Appendice B
-- Lista completa dei Mostri pubblicati
+- Indice dei Mostri

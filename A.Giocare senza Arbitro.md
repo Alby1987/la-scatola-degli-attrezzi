@@ -328,3 +328,5 @@ Un personaggio deve entrare nella pozza per scoprirne le proprietà.
 | 1-2        | Legge        |
 | 3-4        | Neutrale     |
 | 5-6        | Caos         |
+
+\newpage

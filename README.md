@@ -43,3 +43,7 @@ Ci sono due alternative:
 2. Contatta "Alby87" su LocandaGDR, il topic della Scatola degli Attrezzi è https://forum.locandagdr.it/t/proposta-la-scatola-degli-attrezzi-repository-per-regole-opzionali-ed-aggiuntive/1665 . Cercherò di aggiungerlo al progetto e potrei chiederti di aiutarmi eventualmente ad integrarlo nel miglior modo possibile.
 
 Congratulazioni, hai contribuito a questo progetto!
+
+### Ringraziamenti Tecnici
+
+Grazie al progetto Pandoc e pandoc-docx-pagebreak-py.

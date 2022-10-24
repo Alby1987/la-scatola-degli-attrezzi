@@ -92,17 +92,17 @@ Per generare una camera o una stanza, generate la dimensione e forma, poi uscite
 
 #### Tabella A.5.1: Forma stanza o camera
 
-| 1d12    | Forma                                      | Camera      | Stanza      |
-| ------- | ------------------------------------------ | ----------- | ----------- |
-| 01      | Quadrata                                   | 20' per 20' | 10' per 10' |
-| 02 - 04 | Quadrata                                   | 20' per 20' | 20' per 20' |
-| 05      | Quadrata                                   | 30' per 30' | 30' per 30' |
-| 06      | Quadrata                                   | 40' per 40' | 40' per 40' |
-| 07      | Rettangolare                               | 20' per 30' | 10' per 20' |
-| 08 - 09 | Rettangolare                               | 20' per 30' | 20' per 30' |
-| 10      | Rettangolare                               | 30' per 50' | 20' per 40' |
-| 11      | Rettangolare                               | 40' per 60' | 30' per 40' |
-| 12      | Forma inusuale, tirare sulla tabella A.5.2 |             |             |
+| Tiro (1d12)    | Forma                                      | Camera      | Stanza      |
+| -------------- | ------------------------------------------ | ----------- | ----------- |
+| 01             | Quadrata                                   | 20' per 20' | 10' per 10' |
+| 02 - 04        | Quadrata                                   | 20' per 20' | 20' per 20' |
+| 05             | Quadrata                                   | 30' per 30' | 30' per 30' |
+| 06             | Quadrata                                   | 40' per 40' | 40' per 40' |
+| 07             | Rettangolare                               | 20' per 30' | 10' per 20' |
+| 08 - 09        | Rettangolare                               | 20' per 30' | 20' per 30' |
+| 10             | Rettangolare                               | 30' per 50' | 20' per 40' |
+| 11             | Rettangolare                               | 40' per 60' | 30' per 40' |
+| 12             | Forma inusuale, tirare sulla tabella A.5.2 |             |             |
 
 #### Tabella A.5.2: Forme inusuale
 
@@ -134,38 +134,38 @@ Per generare una camera o una stanza, generate la dimensione e forma, poi uscite
 
 Tirate un 1d6 e scegliete la riga corretta in base alla dimensione della stanza.
 
-| 1d6 | Dimensione           | Uscite |
-| --- | -------------------- | ------ |
-| 1   | Fino a 600'          | 1      |
-| 1   | Oltre 600'           | 2      |
-| 2   | Fino a 600'          | 2      |
-| 2   | Oltre 600'           | 3      |
-| 3   | Fino a 600'          | 3      |
-| 3   | Oltre 600'           | 4      |
-| 4   | Fino a 1200'         | 0\*    |
-| 4   | Oltre 1200'          | 1      |
-| 5   | Fino a 1600'         | 0\*    |
-| 5   | Oltre 1600           | 1      |
-| 6   | Qualsiasi dimensione | 1d4    |
+| Tiro (1d6) | Dimensione           | Uscite |
+| ---------- | -------------------- | ------ |
+| 1          | Fino a 600'          | 1      |
+| 1          | Oltre 600'           | 2      |
+| 2          | Fino a 600'          | 2      |
+| 2          | Oltre 600'           | 3      |
+| 3          | Fino a 600'          | 3      |
+| 3          | Oltre 600'           | 4      |
+| 4          | Fino a 1200'         | 0\*    |
+| 4          | Oltre 1200'          | 1      |
+| 5          | Fino a 1600'         | 0\*    |
+| 5          | Oltre 1600           | 1      |
+| 6          | Qualsiasi dimensione | 1d4    |
 
 \* = Può esistere una porta segreta: per ogni 10' di muro controllato, tirare un 1d12: con 1 trovare una porta segreta, ma con 12 compare un mostro errante.
 
 #### Tabella A.5.5: Luogo dell'uscita
 
-| 1d12    | Luogo            |
-| ------- | ---------------- |
-| 01 - 05 | Muro opposto     |
-| 06 - 08 | Muro di sinistra |
-| 09 - 11 | Muro di destra   |
-| 12      | Stesso muro      |
+| Tiro (1d12)    | Luogo            |
+| -------------- | ---------------- |
+| 01 - 05        | Muro opposto     |
+| 06 - 08        | Muro di sinistra |
+| 09 - 11        | Muro di destra   |
+| 12             | Stesso muro      |
 
 #### Tabella A.5.6: Direzione dell'uscita
 
-| 1d12    | Direzione\*                             |
-| ------- | --------------------------------------- |
-| 01 - 08 | Dritto                                  |
-| 09 - 11 | Dritto, largo 20'                       |
-| 12      | 45 gradi, verso destra o verso sinistra |
+| Tiro (1d12)    | Direzione\*                             |
+| -------------- | --------------------------------------- |
+| 01 - 08        | Dritto                                  |
+| 09 - 11        | Dritto, largo 20'                       |
+| 12             | 45 gradi, verso destra o verso sinistra |
 
 \* = Se l'uscita è una porta, allora usare le tabelle 2.
 
@@ -173,14 +173,14 @@ Se il corridoio apre su di una stanza o corridoio già mappato, allora l'uscita 
 
 #### Tabella A.5.7: Contenuto della camera o della stanza
 
-| 1d20    | Contenuto                       |
-| ------- | ------------------------------- |
-| 01 - 12 | Vuoto                           |
-| 13 - 14 | Mostro errante                  |
-| 15 - 17 | Mostro o tesoro                 |
-| 18      | Speciale\* o vuota              |
-| 19      | Tranello/Trappola (Tabelle A.7) |
-| 20      | Tesoro (Tabella A.6)            |
+| Tiro (1d20)    | Contenuto                       |
+| -------------- | ------------------------------- |
+| 01 - 12        | Vuoto                           |
+| 13 - 14        | Mostro errante                  |
+| 15 - 17        | Mostro o tesoro                 |
+| 18             | Speciale\* o vuota              |
+| 19             | Tranello/Trappola (Tabelle A.7) |
+| 20             | Tesoro (Tabella A.6)            |
 
 \* = Per lo speciale, se state giocando da soli, potete chiedere ad un vostro amico di creare una serie di stanze in segreto che potrete consultare in queste occasioni, oppure tirare sulle tabelle presenti in questo manuale in altri capitoli, o nei manuali de *La Scatola Bianca* e *La Scatola Bianca - Regole Avanzate*. Se state giocando in più giocatori senza arbitro, uno di voi (a rotazione) potrebbe diventare "arbitro per una stanza", e creare al volo (o usare degli "speciali" preparati in anticipo) una sfida per gli altri giocatori.
 
@@ -192,7 +192,7 @@ Se il corridoio apre su di una stanza o corridoio già mappato, allora l'uscita 
 | 26 - 50      | 1.000 pezzi d'argento per livello |
 | 51 - 65      | 400 pezzi d'oro per livello       |
 | 66 - 80      | 250 pezzi d'oro per livello       |
-| 81 - 90      | 1000 pezzi d'oro per livello      |
+| 81 - 90      | 1.000 pezzi d'oro per livello      |
 | 91 - 94      | 1d4 gemme per livello             |
 | 95 - 97      | 1 gioiello per livello            |
 | 98 - 00      | Oggetto Magico                    |

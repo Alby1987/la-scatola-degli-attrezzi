@@ -8,10 +8,10 @@ A volte capita di voler lasciare al caso la generazione di un Dungeon. *La Scato
 
 | Tiro (1d20) | Risultato                                                                                                                                  |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 01 - 03     | Continua dritto, e ritira dopo 60'                                                                                                         |
-| 04 - 07     | Porta (Tabelle A.2)                                                                                                                        |
-| 08 - 10     | Corridoio laterale (Tabelle A.3), poi ritira dopo 30'                                                                                      |
-| 14 - 16     | Camera (Tabelle A.5)                                                                                                                       |
+| 01-03       | Continua dritto, e ritira dopo 60'                                                                                                         |
+| 04-07       | Porta (Tabelle A.2)                                                                                                                        |
+| 08-10       | Corridoio laterale (Tabelle A.3), poi ritira dopo 30'                                                                                      |
+| 14-16       | Camera (Tabelle A.5)                                                                                                                       |
 | 17          | Scale (Tabelle A.6)                                                                                                                        |
 | 18          | Vicolo cieco (Potete cercare nei muri di destra, sinistra e di fronte a voi. Controllate le regole sulle porte nascoste nelle tabelle A.5) |
 | 19          | Trappola o tranello (Tabelle A.7), il corridoio continua, e ritirate dopo 60'                                                              |
@@ -23,9 +23,9 @@ A volte capita di voler lasciare al caso la generazione di un Dungeon. *La Scato
 
 | Tiro (1d12) | Risultato\* |
 | ----------- | ----------- |
-| 01 - 04     | Sinistra    |
-| 05 - 08     | Destra      |
-| 09 - 12     | Dritto      |
+| 01-04       | Sinistra    |
+| 05-08       | Destra      |
+| 09-12       | Dritto      |
 
 \* = Se non trovare una stanza dietro una porta, ripetete il tiro sulla tabella A.1 dopo aver passato o attraversato la porta di 30'
 
@@ -33,11 +33,11 @@ A volte capita di voler lasciare al caso la generazione di un Dungeon. *La Scato
 
 | Tiro (1d12) | Risultato                                                             |
 | ----------- | --------------------------------------------------------------------- |
-| 01 - 02     | Corridoio parallelo o una stanza 10' per 10' se la porta è di fronte. |
+| 01-02       | Corridoio parallelo o una stanza 10' per 10' se la porta è di fronte. |
 | 03          | Corridoio dritto.                                                     |
 | 04          | Corridoio 45 gradi in avanti\*                                        |
 | 05          | Corridoio 45 gradi all'indietro\*                                     |
-| 06 - 12     | Stanza (Tabelle A.5)                                                  |
+| 06-12       | Stanza (Tabelle A.5)                                                  |
 
 \* = Rispetto alla vostra provenienza
 
@@ -64,8 +64,8 @@ A volte capita di voler lasciare al caso la generazione di un Dungeon. *La Scato
 
 | Tiro (1d12) | Larghezza |
 | ----------- | --------- |
-| 01 - 07     | 10'       |
-| 08 - 10     | 20'       |
+| 01-07       | 10'       |
+| 08-10       | 20'       |
 | 11          | 30'       |
 | 12          | 5'        |
 
@@ -77,10 +77,10 @@ A volta capita che il corridoio non possa proseguire (altre stanze o corridoi, o
 
 | Tiro (1d12) | Svolta                         |
 | ----------- | ------------------------------ |
-| 01 - 04     | Sinistra 90 gradi              |
+| 01-04       | Sinistra 90 gradi              |
 | 05          | Sinistra 45 gradi in avanti    |
 | 06          | Sinistra 45 gradi all'indietro |
-| 07 - 10     | Destra 90 gradi                |
+| 07-10       | Destra 90 gradi                |
 | 11          | Destra 45 gradi in avanti      |
 | 12          | Destra 45 gradi all'indietro   |
 
@@ -95,11 +95,11 @@ Per generare una camera o una stanza, generate la dimensione e forma, poi uscite
 | Tiro (1d12)    | Forma                                      | Camera      | Stanza      |
 | -------------- | ------------------------------------------ | ----------- | ----------- |
 | 01             | Quadrata                                   | 20' per 20' | 10' per 10' |
-| 02 - 04        | Quadrata                                   | 20' per 20' | 20' per 20' |
+| 02-04          | Quadrata                                   | 20' per 20' | 20' per 20' |
 | 05             | Quadrata                                   | 30' per 30' | 30' per 30' |
 | 06             | Quadrata                                   | 40' per 40' | 40' per 40' |
 | 07             | Rettangolare                               | 20' per 30' | 10' per 20' |
-| 08 - 09        | Rettangolare                               | 20' per 30' | 20' per 30' |
+| 08-09          | Rettangolare                               | 20' per 30' | 20' per 30' |
 | 10             | Rettangolare                               | 30' per 50' | 20' per 40' |
 | 11             | Rettangolare                               | 40' per 60' | 30' per 40' |
 | 12             | Forma inusuale, tirare sulla tabella A.5.2 |             |             |
@@ -108,10 +108,10 @@ Per generare una camera o una stanza, generate la dimensione e forma, poi uscite
 
 | Tiro (1d12) | Forma              |
 | ----------- | ------------------ |
-| 01 - 03     | Circolare          |
-| 04 - 05     | Triangolare        |
-| 06 - 07     | Trapezoidale       |
-| 08 - 09     | Forma irregolare\* |
+| 01-03       | Circolare          |
+| 04-05       | Triangolare        |
+| 06-07       | Trapezoidale       |
+| 08-09       | Forma irregolare\* |
 | 10          | Ovale              |
 | 11          | Esagonale          |
 | 12          | Ottagonale         |
@@ -122,10 +122,10 @@ Per generare una camera o una stanza, generate la dimensione e forma, poi uscite
 
 | Tiro (1d12) | Dimensioni                                                                  |
 | ----------- | --------------------------------------------------------------------------- |
-| 01 - 03     | Circa 500' quadri                                                           |
-| 04 - 05     | Circa 900' quadri                                                           |
-| 06 - 07     | Circa 1.300' quadri                                                         |
-| 08 - 09     | Circa 2.000' quadri                                                         |
+| 01-03       | Circa 500' quadri                                                           |
+| 04-05       | Circa 900' quadri                                                           |
+| 06-07       | Circa 1.300' quadri                                                         |
+| 08-09       | Circa 2.000' quadri                                                         |
 | 10          | Circa 2.700' quadri                                                         |
 | 11          | Circa 3.400' quadri                                                         |
 | 12          | Tirate ancora ed aggiungi 3.400' quadri (aggiungili ogni volta che esce 12) |
@@ -154,17 +154,17 @@ Tirate un 1d6 e scegliete la riga corretta in base alla dimensione della stanza.
 
 | Tiro (1d12)    | Luogo            |
 | -------------- | ---------------- |
-| 01 - 05        | Muro opposto     |
-| 06 - 08        | Muro di sinistra |
-| 09 - 11        | Muro di destra   |
+| 01-05          | Muro opposto     |
+| 06-08          | Muro di sinistra |
+| 09-11          | Muro di destra   |
 | 12             | Stesso muro      |
 
 #### Tabella A.5.6: Direzione dell'uscita
 
 | Tiro (1d12)    | Direzione\*                             |
 | -------------- | --------------------------------------- |
-| 01 - 08        | Dritto                                  |
-| 09 - 11        | Dritto, largo 20'                       |
+| 01-08          | Dritto                                  |
+| 09-11          | Dritto, largo 20'                       |
 | 12             | 45 gradi, verso destra o verso sinistra |
 
 \* = Se l'uscita è una porta, allora usare le tabelle 2.
@@ -175,9 +175,9 @@ Se il corridoio apre su di una stanza o corridoio già mappato, allora l'uscita 
 
 | Tiro (1d20)    | Contenuto                       |
 | -------------- | ------------------------------- |
-| 01 - 12        | Vuoto                           |
-| 13 - 14        | Mostro errante                  |
-| 15 - 17        | Mostro o tesoro                 |
+| 01-12          | Vuoto                           |
+| 13-14          | Mostro errante                  |
+| 15-17          | Mostro o tesoro                 |
 | 18             | Speciale\* o vuota              |
 | 19             | Tranello/Trappola (Tabelle A.7) |
 | 20             | Tesoro (Tabella A.6)            |
@@ -188,14 +188,14 @@ Se il corridoio apre su di una stanza o corridoio già mappato, allora l'uscita 
 
 | Tiro (1d100) | Tesoro                            |
 | ------------ | --------------------------------- |
-| 01 - 25      | 1.000 pezzi di rame per livello   |
-| 26 - 50      | 1.000 pezzi d'argento per livello |
-| 51 - 65      | 400 pezzi d'oro per livello       |
-| 66 - 80      | 250 pezzi d'oro per livello       |
-| 81 - 90      | 1.000 pezzi d'oro per livello      |
-| 91 - 94      | 1d4 gemme per livello             |
-| 95 - 97      | 1 gioiello per livello            |
-| 98 - 00      | Oggetto Magico                    |
+| 01-25        | 1.000 pezzi di rame per livello   |
+| 26-50        | 1.000 pezzi d'argento per livello |
+| 51-65        | 400 pezzi d'oro per livello       |
+| 66-80        | 250 pezzi d'oro per livello       |
+| 81-90        | 1.000 pezzi d'oro per livello      |
+| 91-94        | 1d4 gemme per livello             |
+| 95-97        | 1 gioiello per livello            |
+| 98-00        | Oggetto Magico                    |
 
 Per stanze del tesoro con mostri, usare la procedura standard indicata nel manuale base.
 
@@ -203,7 +203,7 @@ Per stanze del tesoro con mostri, usare la procedura standard indicata nel manua
 
 | Tiro (1d20) | Scale                                                                                        |
 | ----------- | -------------------------------------------------------------------------------------------- |
-| 01 - 05     | Giù un livello\*                                                                             |
+| 01-05       | Giù un livello\*                                                                             |
 | 06          | Giù due livelli\*\*                                                                          |
 | 07          | Giù tre livelli\*\*\*                                                                        |
 | 08          | Verso l'alto, vicolo cieco. 1 su 6 avviene un crollo e si apre uno scivolo giù un livello    |
@@ -211,8 +211,8 @@ Per stanze del tesoro con mostri, usare la procedura standard indicata nel manua
 | 10          | Camino naturale su per un livello, il corridoio continua, ricontrollare dopo 30'             |
 | 11          | Camino naturale su per due livelli, il corridoio continua, ricontrollare dopo 30'            |
 | 13          | Camino naturale giù per due livelli, il corridoio continua, ricontrollare dopo 30'           |
-| 14 - 18     | Botola giù per un livello, il corridoio continua, ricontrollare dopo 30'                     |
-| 19 - 20     | Botola giù per due livelli, il corridoio continua, ricontrollare dopo 30'                    |
+| 14-18       | Botola giù per un livello, il corridoio continua, ricontrollare dopo 30'                     |
+| 19-20       | Botola giù per due livelli, il corridoio continua, ricontrollare dopo 30'                    |
 
 \* = Una probabilità su 12 che una porta chiude l'uscita per un giorno
 \*\* = Una probabilità su 10 che una porta chiude l'uscita per un giorno
@@ -224,16 +224,16 @@ Controllate queste porte dopo aver usato le scale per scendere.
 
 | Tiro (1d20) | Trappola o tranello                                                                                                         |
 | ----------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 01 - 05     | Probabile porta nascosta\*                                                                                                  |
-| 06 - 07     | Fosso, profondo 10'. 3 su 6 probabilità di caduta                                                                           |
+| 01-05       | Probabile porta nascosta\*                                                                                                  |
+| 06-07       | Fosso, profondo 10'. 3 su 6 probabilità di caduta                                                                           |
 | 08          | Fosso, profondo 10', con spuntoni                                                                                           |
 | 09          | Ascensore 20' per 20' (il gruppo è appena entrato in questa stanza), scende per un livello e non risalirà per 30 turni      |
 | 10          | Come sopra, ma per 2 livelli                                                                                                |
 | 11          | Come sopra, ma per 2-5 turni\*\*                                                                                            |
-| 12 - 14     | Un muro, 10' dietro di voi, scorre chiudendo il passaggio per 10-60 turni                                                   |
+| 12-14       | Un muro, 10' dietro di voi, scorre chiudendo il passaggio per 10-60 turni                                                   |
 | 15          | Trappola a frecce, 1d6 frecce, per ciascuna tira per vedere se colpiscono. Per ciascuna tira un 1d6: 1 è freccia avvelenata |
 | 16          | Trappola a lance, 1d3 lance, 1 su 1d12 significa lancia avvelenata                                                          |
-| 17 - 18     | Gas, il gruppo ne riconosce la presenza. Copre 60' davanti a voi: tirate la tabella A.7.2                                   |
+| 17-18       | Gas, il gruppo ne riconosce la presenza. Copre 60' davanti a voi: tirate la tabella A.7.2                                   |
 | 19          | Niente                                                                                                                      |
 | 20          | Speciale\*\*\*, o ritirate                                                                                                  |
 
@@ -245,11 +245,11 @@ Controllate queste porte dopo aver usato le scale per scendere.
 
 | Tiro (1d12) | Effetti del gas                                                           |
 | ----------- | ------------------------------------------------------------------------- |
-| 01 - 05     | Oscura la vista mentre attraversato il gas                                |
+| 01-05       | Oscura la vista mentre attraversato il gas                                |
 | 06          | Acceca per 1d6 turni dopo aver attraversato il gas                        |
 | 07          | Pausa: prova un tiro salvezza, se lo fallisci corri indietro per 120'     |
 | 08          | Sonno: il gruppo si addormenta per 2d6 turni                              |
-| 09 - l0     | Forza: aggiunge un 1d6 di forza temporanea a tutti i guerrieri del gruppo |
+| 09-l0       | Forza: aggiunge un 1d6 di forza temporanea a tutti i guerrieri del gruppo |
 | 11          | Malattia: ritornate alla superficie immediatamente                        |
 | 12          | Veleno: tiro salvezza o morte                                             |
 
@@ -261,11 +261,11 @@ Se desiderate che sotto le rovine ci siano delle caverne naturali, potete usare 
 
 | Tiro (1d12) | Cave e caverne                                          |
 | ----------- | ------------------------------------------------------- |
-| 01 - 03     | Cava di circa 40' per 60'                               |
+| 01-03       | Cava di circa 40' per 60'                               |
 | 04          | Cava di circa 50' per 75'                               |
 | 05          | Doppia cava: 20' per 30', 60' per 60'                   |
 | 06          | Doppia cava: 35' per 50', 80' per 90'\*                 |
-| 07 - 09     | Caverna di circa 95' per 125'\*                         |
+| 07-09       | Caverna di circa 95' per 125'\*                         |
 | 10          | Caverna di circa 120' per 150'                          |
 | 11          | Caverna di circa 150' per 200'\*                        |
 | 12          | Caverna colossale di circa 250'-300' per 350'-400' \*\* |
@@ -277,19 +277,19 @@ Se desiderate che sotto le rovine ci siano delle caverne naturali, potete usare 
 
 | Tiro (1d12) | Pozze                  |
 | ----------- | ---------------------- |
-| 01 - 05     | Nessuna pozza          |
-| 06 - 07     | Pozza, nessun mostro   |
-| 08 - 09     | Pozza, mostro          |
-| 10 - 11     | Pozza, mostro e tesoro |
+| 01-05       | Nessuna pozza          |
+| 06-07       | Pozza, nessun mostro   |
+| 08-09       | Pozza, mostro          |
+| 10-11       | Pozza, mostro e tesoro |
 | 12          | Pozza magica           |
 
 #### Tabella A.8.3: Laghi
 
 | Tiro (1d12) | Laghi               |
 | ----------- | ------------------- |
-| 01 - 05     | Nessun lago         |
-| 06 - 08     | Lago, nessun mostro |
-| 09 - 11     | Lago, con mostro\*  |
+| 01-05       | Nessun lago         |
+| 06-08       | Lago, nessun mostro |
+| 09-11       | Lago, con mostro\*  |
 | 12          | Lago incantato\*\*  |
 
 \* = 1d4 mostri, 4 su 5 possibilità di tesoro
@@ -301,10 +301,10 @@ Un personaggio deve entrare nella pozza per scoprirne le proprietà.
 
 | Tiro (1d12) | Effetti pozza magica                                                                                      |
 | ----------- | --------------------------------------------------------------------------------------------------------- |
-| 01 - 03     | Trasforma l'oro in platino (1-3) o in piombo (4-6), una sola volta.                                       |
-| 04 - 06     | Altererà in maniera permanentemente, una volta soltanto, una caratteristica di tutti i personaggi\*       |
-| 07 - 09     | Pozza parlante, che donerà un desiderio a personaggi con lo stesso allineamento, 2d6 danno agli altri\*\* |
-| 10 - 12     | Teletrasporto (1d6): 1-2 Superfice, 3-4 livello giù, 5-6 superfice a 100 miglia dall'ingresso             |
+| 01-03       | Trasforma l'oro in platino (1-3) o in piombo (4-6), una sola volta.                                       |
+| 04-06       | Altererà in maniera permanentemente, una volta soltanto, una caratteristica di tutti i personaggi\*       |
+| 07-09       | Pozza parlante, che donerà un desiderio a personaggi con lo stesso allineamento, 2d6 danno agli altri\*\* |
+| 10-12       | Teletrasporto (1d6): 1-2 Superfice, 3-4 livello giù, 5-6 superfice a 100 miglia dall'ingresso             |
 
 \* = Tirare per ogni personaggio l'operazione (1-3 sottrazione, 4-6 addizione), il quantitativo (1d3) e la caratteristica:
 

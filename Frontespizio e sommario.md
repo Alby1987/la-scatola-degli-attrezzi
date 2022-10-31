@@ -2,12 +2,13 @@
 
 ![](img/Frontespizio.webp)
 
-Versione 0.0.1
+Versione 0.0.2
 
 - A cura di *Alberto Giuffrida*
 - Basato sul lavoro di: Joe Fisher, Ronald Guritzky, Tony Watson, James M. Ward, Richard Morenoff, Brad Stock, Brian Lane, P. M. Crabaugh, David Mumper, Jon Pickens, N. Robin Crossby, Robert J. Kuntz, Ronald C. Spencer, Jr., James Endersby, John Carroll, Michael Benveniste, Gary Gygax, George A. Lord, Ernest Gygax e di Italian Translation Alliance.
 
 - Questo prodotto è una pubblicazione indipendente di Alberto Giuffrida e non è affiliato con l'Italian Translation Alliance. 
+- Immagine di copertina: Amy Z su Pixabay (https://pixabay.com/illustrations/dragon-moon-clouds-fantasy-night-7342596/)
 
 \newpage
 

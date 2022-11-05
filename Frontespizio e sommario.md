@@ -2,7 +2,7 @@
 
 ![](img/Frontespizio.webp)
 
-Versione 0.0.2
+Versione 1.0.0
 
 - A cura di *Alberto Giuffrida*
 - Basato sul lavoro di: Joe Fisher, Ronald Guritzky, Tony Watson, James M. Ward, Richard Morenoff, Brad Stock, Brian Lane, P. M. Crabaugh, David Mumper, Jon Pickens, N. Robin Crossby, Robert J. Kuntz, Ronald C. Spencer, Jr., James Endersby, John Carroll, Michael Benveniste, Gary Gygax, George A. Lord, Ernest Gygax e di Italian Translation Alliance.

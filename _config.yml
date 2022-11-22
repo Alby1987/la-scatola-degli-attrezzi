@@ -1,0 +1,12 @@
+title: La Scatola degli Attrezzi
+description: Strumenti per il Gioco Fantasy Medievale d'Avventura
+remote_theme: pmarsceill/just-the-docs
+url: https://alby1987.github.io
+logo: "/copertina/ItchIoLogo.png"
+aux_links:
+  "La Scatola degli Attrezzi su GitHub":
+    - "//github.com/Alby1987/la-scatola-degli-attrezzi"
+  "PDF":
+    - "//alby87.itch.io/la-scatola-degli-attrezzi"
+  "Amazon":  
+    "//www.amazon.it/dp/B0BLG2PQ3M"

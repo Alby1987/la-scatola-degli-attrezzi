@@ -1,3 +1,6 @@
+---
+nav_order: 13
+---
 # APPENDICE A - Giocare senza Arbitro
 
 A volte capita di voler lasciare al caso la generazione di un Dungeon. *La Scatola Bianca - Regole Avanzate* offre già delle tabelle atte allo scopo: qui presentiamo un metodo per la generazione della mappa diverso, creato negli anni 70. Questo metodo può essere anche usato per permettere di giocare al gioco in una sua forma base in solitario o comunque senza un arbitro, per quanto questo ruolo dovrebbe comunque essere ricoperto dai giocatori in determinati casi (anche solo per i turni dei mostri), cercando di essere più imparziali possibili. Inoltre, ricordate che se un tiro di dado risulta in un risultato impossibile... beh, potete sempre sistemarlo voi. Inoltre, le mappe create durante una partita in solo/senza arbitro potranno essere riutilizzate in partite con altri giocatori.
@@ -328,5 +331,3 @@ Un personaggio deve entrare nella pozza per scoprirne le proprietà.
 | 1-2        | Legge        |
 | 3-4        | Neutrale     |
 | 5-6        | Caos         |
-
-\newpage

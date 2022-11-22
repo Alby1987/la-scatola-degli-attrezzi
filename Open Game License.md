@@ -1,3 +1,6 @@
+---
+nav_order: 16
+---
 # Open Game License
 
 OPEN GAME LICENSE Version 1.0a

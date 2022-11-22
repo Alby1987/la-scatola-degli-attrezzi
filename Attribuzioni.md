@@ -1,3 +1,6 @@
+---
+nav_order: 15
+---
 # ATTRIBUZIONI
 
 1. Creare
@@ -40,5 +43,3 @@
 - Indice dei Mostri - Compilato da Alberto Giuffrida
 	
 **Illustrazioni di Jason Glover** (https://greygnome.com/free-art-assets/)
-
-\newpage

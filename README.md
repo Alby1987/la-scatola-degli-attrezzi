@@ -1,3 +1,6 @@
+---
+nav_exclude: true
+---
 # La Scatola degli Attrezzi
 
 ***Questo prodotto è una pubblicazione indipendente di Alberto Giuffrida e non è affiliato con l'Italian Translation Alliance***
